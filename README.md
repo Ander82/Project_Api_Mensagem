@@ -1,5 +1,5 @@
 # Project_Api_Mensagem
-Checar a comparação de texto conforme requisitos:
+Checar a comparação de texto conforme requisitos:<br>
 mensagens com telefone inválido deverão ser bloqueadas(DDD+NUMERO);
 mensagens que estão na blacklist deverão ser bloqueadas; (ver blacklist)
 mensagens para o estado de São Paulo deverão ser bloqueadas;
