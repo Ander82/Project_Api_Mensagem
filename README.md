@@ -10,7 +10,7 @@ o id_broker será definido conforme a operadora; (ver broker x operadora)
 
 
 
-<h4 align="center"> 
+<h4 > 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
