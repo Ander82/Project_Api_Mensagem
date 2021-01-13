@@ -8,15 +8,14 @@ as mensagens com mais de 140 caracteres deverão ser bloqueadas;
 caso possua mais de uma mensagem para o mesmo destino, apenas a mensagem apta com o menor horário deve ser considerada;
 o id_broker será definido conforme a operadora; (ver broker x operadora)
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
+
 
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
+
+<h4 align="center"> pré requisitos</h4>
+$ npm install --save node 
+$ npm install --save multer
+$ npm install express --save
+
