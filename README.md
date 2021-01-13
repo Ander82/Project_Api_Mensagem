@@ -15,7 +15,10 @@ o id_broker será definido conforme a operadora; (ver broker x operadora)
 </h4>
 
 <h4 align="center"> pré requisitos</h4>
-<a>$ npm install --save node </>
-<a>$ npm install --save multer</>
-<a>$ npm install express --save</>
+$npm install --save node<br>
+$ npm install -- save express<br>
+$ npm install --save multer<br>
+
+
+
 
