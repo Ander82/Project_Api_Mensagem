@@ -14,7 +14,7 @@ o id_broker será definido conforme a operadora; (ver broker x operadora)
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
-<h4 align="center"> pré requisitos</h4>
+<h4 > pré requisitos</h4>
 $npm install --save node<br>
 $ npm install -- save express<br>
 $ npm install --save multer<br>
